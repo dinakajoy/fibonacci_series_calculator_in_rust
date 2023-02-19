@@ -1,4 +1,4 @@
 # fibonacci_series_calculator_in_rust
 A simple cli fibonacci series calculator app built with Rust
 
-![fibonacci_series_calc](https://user-images.githubusercontent.com/39722740/219964451-74b23e21-59ea-400e-90eb-30bd7104e052.gif)
+![fib_series_calc](https://user-images.githubusercontent.com/39722740/219965699-16608336-df12-4697-a78c-8522c2980a4a.gif)
